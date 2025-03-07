@@ -1,1 +1,1 @@
-#基于CoCo编辑器与JavaScript自定义控件对系统架构进行设计、基于CoCo云设计数据库框架、基于Photoshop进行界面UI设计，基于blender3.0进行3D模型建造。需要用CoCo打开
+#基于CoCo编辑器与JavaScript自定义控件对系统架构进行设计、基于CoCoSQL。需要用CoCo打开
